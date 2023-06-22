@@ -5,7 +5,7 @@ function verSenha() {
     if(username.value.length == 0 || password.value.length == 0){
         alert("preencha os dados >:(")
     } else {
-        window.open("https://google.com") // teste
+        window.open("./pagina_pos_login/loja.html")  // teste
     }
 
 }
